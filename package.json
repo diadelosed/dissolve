@@ -10,12 +10,12 @@
     "test": "mocha -R spec"
   },
   "dependencies": {
-    "bl": "^1.0.0",
-    "readable-stream": "^2.0.0"
+    "bl": "^1.2.2",
+    "readable-stream": "^2.3.7"
   },
   "devDependencies": {
-    "chai": "^3.0.0",
-    "mocha": "^2.1.0"
+    "chai": "^3.5.0",
+    "mocha": "^7.1.1"
   },
   "repository": {
     "type": "git",
